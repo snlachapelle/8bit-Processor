@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/halfAdder.xst" -ofn "C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/halfAdder.syr" 

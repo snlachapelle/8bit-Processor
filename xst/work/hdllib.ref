@@ -1,0 +1,4 @@
+MO fulladder_8bit NULL fullAdder8bit.v vlg69/fulladder__8bit.bin 1486174522
+MO halfAdder NULL halfAdder.v vlg13/half_adder.bin 1486333253
+MO fullAdder NULL fullAdder.v vlg13/full_adder.bin 1486174522
+MO ALU NULL ALU.v vlg2A/_a_l_u.bin 1486174439

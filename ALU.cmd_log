@@ -1,0 +1,7 @@
+vhdtdtfi -lib work C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.v -lang verilog -prj processor -o ALU.spl -module ALU -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e ALU.spl C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.sym 
+vhdtdtfi -lang verilog -prj processor -o C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.tfi -lib work C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor//ALU.v -module ALU -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+xst -intstyle ise -ifn "C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.xst" -ofn "C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.syr" 
+xst -intstyle ise -ifn "C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.xst" -ofn "C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.syr" 
+xst -intstyle ise -ifn "C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.xst" -ofn "C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.syr" 
+xst -intstyle ise -ifn "C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.xst" -ofn "C:/Users/dermeisterbun/Documents/FPGA/Verilog/processor/ALU.syr" 
